@@ -2,10 +2,7 @@
 //  AppDelegate.swift
 //  ringDemo
 //
-//  Created by sameh mohammed on 1/14/18.
-//  Copyright © 2018 com.najeeb. All rights reserved.
-//
-
+ 
 import UIKit
 
 @UIApplicationMain
